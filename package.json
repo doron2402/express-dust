@@ -1,0 +1,27 @@
+{
+  "name": "ex-dust",
+  "version": "1.0.0",
+  "description": "express app using dust js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/express-dust.git"
+  },
+  "author": "Doron Segal <doron2402@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/express-dust/issues"
+  },
+  "homepage": "https://github.com/doron2402/express-dust",
+  "keywords": [
+    "dustjs",
+    "express"
+  ],
+  "dependencies": {
+    "ejs": "^2.2.4",
+    "express": "^4.11.2"
+  }
+}
